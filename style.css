@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+
+}
+
+h1{
+    padding: 10px;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(175, 37, 37);
+}
+
+h2{
+    text-align: left;
+    color: darkred;
+    padding: 2%;
+}
+
+p{
+    text-align: justify;
+    color: darkred;
+    text-align: center;
+}
+
+img{
+ border: 5cap;
+}
+
